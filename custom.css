@@ -1,3 +1,13 @@
-* {
-    background: red;
+body {
+    background-color: #1e1e1e !important; /* Cambia el fondo de todo */
+    color: #ffffff !important;           /* Cambia el color del texto */
+}
+
+ha-card {
+    background: #2e2e2e !important;      /* Cambia las tarjetas */
+    border: 1px solid #555 !important;
+}
+
+header {
+    background: #000000 !important;      /* Cambia el encabezado */
 }
